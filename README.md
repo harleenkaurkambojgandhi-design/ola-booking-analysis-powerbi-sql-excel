@@ -1,5 +1,7 @@
 # 🚖 Ola Booking Analytics Dashboard
 
+🚖 End-to-end Ola Booking Analytics project using **SQL, Excel, and Power BI** to analyze 100K+ ride bookings, revenue trends, cancellations, customer behavior, and operational KPIs through interactive dashboards.
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue?logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?logo=microsoft-excel)
