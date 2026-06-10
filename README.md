@@ -1,6 +1,7 @@
 # 🚖 Ola Booking Analytics Dashboard
 
-🚖 End-to-end Ola Booking Analytics project using **SQL, Excel, and Power BI** to analyze 100K+ ride bookings, revenue trends, cancellations, customer behavior, and operational KPIs through interactive dashboards.
+End-to-end Ola Booking Analytics project using **SQL, Excel, and Power BI** to analyze 100K+ ride bookings, revenue trends, cancellations, customer behavior, and operational KPIs through interactive dashboards.
+
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue?logo=mysql)
@@ -192,22 +193,22 @@ SQL/ola_sql_queries.sql
 
 ## 💰 Revenue Dashboard
 
-![Revenue Dashboard](<img width="590" height="329" alt="Screenshot 2026-06-10 161112" src="https://github.com/user-attachments/assets/9c25dc6d-2681-4e89-9c8a-ef653efe58ea" />
-)
+<img width="590" height="329" alt="Screenshot 2026-06-10 161112" src="https://github.com/user-attachments/assets/9c25dc6d-2681-4e89-9c8a-ef653efe58ea" />
+
 
 ---
 
 ## ❌ Cancellation Dashboard
 
-![Cancellation Dashboard](<img width="590" height="330" alt="Screenshot 2026-06-10 161144" src="https://github.com/user-attachments/assets/04fcbf10-6d58-415b-a002-6aeded725210" />
-)
+<img width="590" height="330" alt="Screenshot 2026-06-10 161144" src="https://github.com/user-attachments/assets/04fcbf10-6d58-415b-a002-6aeded725210" />
+
 
 ---
 
 ## ⭐ Ratings Dashboard
 
-![Ratings Dashboard](<img width="589" height="329" alt="Screenshot 2026-06-10 161231" src="https://github.com/user-attachments/assets/003aba61-316e-4201-9e56-07fba32eaacd" />
-)
+<img width="589" height="329" alt="Screenshot 2026-06-10 161231" src="https://github.com/user-attachments/assets/003aba61-316e-4201-9e56-07fba32eaacd" />
+
 
 ---
 
